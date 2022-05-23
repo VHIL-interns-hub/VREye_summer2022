@@ -16,9 +16,9 @@ To add a new project, create a directory with the following structure:
 -----------
 remove the above README content when using this template
 
-# Project Title
-Description
+VR EYE
+Creating vr scenes to detect eye deficiency.
 
 ### contributors: 
-- name 1
-- name 2
+Bhaskar Sharma
+### - name 2
