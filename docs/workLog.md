@@ -9,10 +9,9 @@ Monday 23 May 2022:
     -> Started to work on the scene.
     -> Tried to set up HMD.
 
-### Tuesday
-### ...
-### ...
-### ...
+Tuesday 24 May 2022:
+    ->Worked on Snellen scene.
+    -> Tried to set up HMD.
 
 ----
 ## Week 2 [30 May 2022 - 4 June 2022]
