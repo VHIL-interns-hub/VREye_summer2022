@@ -13,6 +13,11 @@ Tuesday 24 May 2022:
     ->Worked on Snellen scene.
     -> Tried to set up HMD.
 
+Wednesday 25 May 2022:
+    -> Upgraded the scenes.
+    -> Tested on HMD.
+
+
 ----
 ## Week 2 [30 May 2022 - 4 June 2022]
 ### Monday
