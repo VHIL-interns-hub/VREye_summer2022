@@ -27,9 +27,14 @@ Friday 27 May 2022:
     -> Tested on HMD.
 
 ----
-## Week 2 [30 May 2022 - 4 June 2022]
-### Monday
-### Tuesday
+Week 2 [30 May 2022 - 4 June 2022]
+Monday 30 May 2022:
+    -> made some changes in Kids (snellen chart)
+	-> Presented the changes.
+	-> learnt some scripts on user interaction.
+Tuesday 31 May 2022:
+    -> worked on Scene.
+    -> also tried running some scripts.
 ### ...
 ### ...
 ### ...
