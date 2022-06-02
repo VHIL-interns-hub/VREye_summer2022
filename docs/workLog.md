@@ -32,10 +32,15 @@ Monday 30 May 2022:
     -> made some changes in Kids (snellen chart)
 	-> Presented the changes.
 	-> learnt some scripts on user interaction.
+	
 Tuesday 31 May 2022:
     -> worked on Scene.
     -> also tried running some scripts.
-### ...
+
+Wednesday 01 June 2022:
+    -> tried running some user interaction scripts.
+    -> started working on scene 3.
+    
 ### ...
 ### ...
 
