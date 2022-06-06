@@ -45,6 +45,10 @@ Thursday 02 June 2022:
     -> tried running some user interaction scripts.
     -> Worked on scene 3(Color vision deficiency).
     
+Friday 03 June 2022:
+    -> tried running some user interaction scripts.
+    -> Almost finished scene 3(Color vision deficiency).
+    
 ### ...
 ### ...
 
