@@ -4,7 +4,7 @@ This file is written in `markdown` format. Learn more from [here](https://docs.g
 VR Eye
 Bhaskar Sharma
 
-Week 1 [23 May 2022 - 28 May 2022]
+Week 1 [23 May 2022 - 27 May 2022]
 Monday 23 May 2022:
     -> Started to work on the scene.
     -> Tried to set up HMD.
@@ -27,7 +27,7 @@ Friday 27 May 2022:
     -> Tested on HMD.
 
 ----
-Week 2 [30 May 2022 - 4 June 2022]
+Week 2 [30 May 2022 - 3 June 2022]
 Monday 30 May 2022:
     -> made some changes in Kids (snellen chart)
 	-> Presented the changes.
@@ -48,16 +48,21 @@ Thursday 02 June 2022:
 Friday 03 June 2022:
     -> tried running some user interaction scripts.
     -> Almost finished scene 3(Color vision deficiency).
-    
-### ...
-### ...
 
 ----
-## Week 3 [ .. .. ..]
-### Monday
-### Tuesday
-### ...
-### ...
+## Week 3 [06 June 2022 - 11 June 2022]
+Monday 06 June 2022:
+	### Exams
+
+Tuesday 07 June 2022:
+	### Exams
+	
+Wednesday 08 June 2022:
+	### Exams
+
+Thursday 09 June 2022:
+	-> Edited ColorVision scene.
+	-> Added a script to destroy object in Snellen(Adult) Scene.
 ### ...
 
 ----
