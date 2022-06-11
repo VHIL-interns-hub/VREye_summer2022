@@ -63,7 +63,10 @@ Wednesday 08 June 2022:
 Thursday 09 June 2022:
 	-> Edited ColorVision scene.
 	-> Added a script to destroy object in Snellen(Adult) Scene.
-### ...
+
+Friday 10 June 2022:
+	-> Workded on ColorVision Scripts and Tested on VR.
+	-> Tested Snellen(Adult) on Vr.
 
 ----
 ...
