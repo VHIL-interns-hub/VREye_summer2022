@@ -69,6 +69,18 @@ Friday 10 June 2022:
 	-> Tested Snellen(Adult) on Vr.
 
 ----
+
+## Week 4 [13 June 2022 - 17 June 2022]
+Monday 13 June 2022:
+	-> Connect Snellen scene with Kids Scene.
+	-> made few changes in ColorVision Scene and scripts.
+
+Tuesday 14 June 2022:
+	-> Worked on scripts of ColorVision and Snellen.
+	-> Also helped in VR Tron game making.
+	
+
+----
 ...
 ...
 ...
