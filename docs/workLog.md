@@ -79,6 +79,12 @@ Tuesday 14 June 2022:
 	-> Worked on scripts of ColorVision and Snellen.
 	-> Also helped in VR Tron game making.
 	
+Wednesday 15 June 2022:
+	-> Worked on scripts of ColorVision and Snellen.
+	
+Thursday 16 June 2022:
+	-> Completed scripts on ColorVision .
+	-> Also helped in VR Tron game making.
 
 ----
 ...
